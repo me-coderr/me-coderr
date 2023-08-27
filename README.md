@@ -1,3 +1,5 @@
+
+<!--
 <h2 align="center">👋 Hello! I'm Saeed.</h2>
 <p align="center">
   <a href="https://www.instagram.com/me.coderrr/">Instagram</a> •
@@ -13,36 +15,38 @@
 - ⚡ Fun fact: If you follow me on GitHub, I will follow you back
 
 -------
+-->
 
-<h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
+
+<h1 align="center">Hi 👋, I'm Saeed Ahmed.</h1>
 <h3 align="center">A full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-coderr&label=Profile%20views&color=0e75b6&style=flat" alt="me-coderr" /> </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rohit_ranjan27?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/theesaeedahmed?style=social)
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 🌱 I’m currently learning **AWS and Python.**
+- 🌱 I’m currently learning **NodeJS and SQL.**
 
-- 🚀 Building <a href="https://www.devphilic.tech/">**Devphilic.tech** </a>
+<!-- - 🚀 Building <a href="https://www.devphilic.tech/">**Devphilic.tech** </a> -->
 
 - 💬 Open to collaborate in **hackathons and projects.**
 
 - 👀 Looking for **internships and freelance gigs.**
 
-- 📫 How to reach me **rohitranjan2702@gmail.com**
+- 📫 How to reach me **theesaeedahmed@gmail.com**
 
 - ⚡ Fun fact **I'm just the way I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohit_ranjan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_ranjan27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit-ranjan-singh-6133901b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-ranjan-singh-6133901b6/" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit.2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_rohit_0_0" height="30" width="40" /></a>
+<a href="https://twitter.com/theesaeedahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="me-coderr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theesaeedahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-ranjan-singh-6133901b6/" height="30" width="40" /></a>
+<a href="https://instagram.com/me.coderrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_rohit_0_0" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -63,7 +67,7 @@
  <img src=" https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socketio" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="firebase" width="80" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*BKOvjpzn6SPKs81L.png" alt="firebase" width="80" height="40"/>
-   <img src="https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/59cCD9XdmSSxnhKincJr5V/download/" alt="firebase" width="70" height="40"/>
+   <img src="https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/59cCD9XdmSSxnhKincJr5V/download/" alt="firebase" width="70" height="40"/> -->
 
 
  
